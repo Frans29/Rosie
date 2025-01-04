@@ -2,7 +2,7 @@ import re
 from pathlib import Path
 
 from setuptools import find_packages, setup
-
+ 
 
 def get_version(package: str) -> str:
     version = (Path("src") / package / "__init__.py").read_text()
