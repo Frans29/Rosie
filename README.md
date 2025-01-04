@@ -3,7 +3,7 @@
 
 Rosie is an interactive social media agent built using [SwarmNode](https://github.com/swarmnode-ai) framework
 
-Follow Ally on X: [Ally_SNAI](https://x.com/ally_snai)
+Follow Rosie on X: [Rosie_SNAI](https://x.com/RosieAISolana)
 
 ## Documentation
 
